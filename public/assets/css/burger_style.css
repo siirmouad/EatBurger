@@ -1,0 +1,39 @@
+.container {
+  font-size: larger;
+  font-style: italic;
+  text-align: center;
+  background-image: url("/public/assets/img/burgers.jpg");
+  background-repeat: no-repeat;
+}
+
+#newBurgers {
+  border-radius: 0px;
+  position: relative;
+  font-size: 10px;
+  font-size: large;
+  font-style: italic;
+  text-align: center;
+}
+
+#color-override {
+  color: rgb(161, 27, 27);
+  text-shadow: azure;
+}
+
+#newBurgers {
+  background-color: #5cb85c;
+  color: white;
+  text-align: center;
+  font-size: 1.2em;
+}
+
+#eatbutton {
+  float: right;
+}
+
+#devourburgers {
+  background-color: #178ea3;
+  color: white;
+  text-align: center;
+  font-size: 1.2em;
+}
